@@ -11,6 +11,9 @@ Neural Networks
 * Competitive Neural Network 
 
 Online K-means using PySpark
+
 Recursive Least Mean Squares
+
 Support Vector Machine experiment analysis on Iris Data
+
 
