@@ -6,6 +6,7 @@ Natural Language Processing
 * Word2vec 
 
 Neural Networks
+* Deep Recurrent Attentive Writer (DRAW)
 * Multi Layer Perceptron Model
 * Complex-valued Neural Networks
 * Competitive Neural Network 
